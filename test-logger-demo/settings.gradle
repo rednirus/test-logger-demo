@@ -1,0 +1,5 @@
+rootProject.name = 'test-logger-demo'
+
+include 'common'
+include 'base'
+include 'app'
